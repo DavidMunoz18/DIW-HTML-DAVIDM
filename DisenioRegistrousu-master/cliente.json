@@ -1,0 +1,17 @@
+{
+  "clubs": [
+    {
+      "id": "1",
+      "usuario": "usuario1",
+      "contraseña": "contraseña1",
+      "correo": "usuario1@example.com"
+    },
+    {
+      "id": "2",
+      "usuario": "usuario2",
+      "contraseña": "contraseña2",
+      "correo": "usuario2@example.com"
+    }
+    
+  ]
+}
